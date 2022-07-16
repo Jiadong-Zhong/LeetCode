@@ -18,6 +18,7 @@ public class MovingAverage {
         System.out.println(param4);
     }
 
+
     Deque<Integer> nums;
     int size;
     int sum;
