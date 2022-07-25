@@ -11,7 +11,7 @@ public class DistanceBetweenBusStops {
         DistanceBetweenBusStops solution = new DistanceBetweenBusStops();
         int ans = solution.distanceBetweenBusStops(distance, start, destination);
         System.out.println(ans);
-
+        
     }
 
     // 自己写的
